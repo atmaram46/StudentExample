@@ -1,0 +1,226 @@
+Menu Options and Results:
+
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+1
+Enter First Name:
+Arun
+Enter Last Name:
+Kumar
+Enter GPA:
+8.2
+Enter Id:
+1
+Success
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+1
+Enter First Name:
+Shyam
+Enter Last Name:
+Singh
+Enter GPA:
+8.3
+Enter Id:
+2
+Success
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+1
+Enter First Name:
+Ram
+Enter Last Name:
+Singh
+Enter GPA:
+8.4
+Enter Id:
+3
+Success
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+1
+Enter First Name:
+Dinesh
+Enter Last Name:
+Pal
+Enter GPA:
+8.5
+Enter Id:
+3
+Error: id already exists
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+1
+Enter First Name:
+Dinesh
+Enter Last Name:
+Pal
+Enter GPA:
+8.5
+Enter Id:
+4
+Success
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+1
+Enter First Name:
+Vivek
+Enter Last Name:
+Singh
+Enter GPA:
+8.6
+Enter Id:
+5
+Success
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+2
+StudentInfo(id=1, firstName=Arun, lastName=Kumar, gpa=8.2)
+StudentInfo(id=2, firstName=Shyam, lastName=Singh, gpa=8.3)
+StudentInfo(id=3, firstName=Ram, lastName=Singh, gpa=8.4)
+StudentInfo(id=4, firstName=Dinesh, lastName=Pal, gpa=8.5)
+StudentInfo(id=5, firstName=Vivek, lastName=Singh, gpa=8.6)
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+3
+Enter Id to Search:
+3
+StudentInfo(id=3, firstName=Ram, lastName=Singh, gpa=8.4)
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+4
+Enter Last Name to Search:
+Singh
+StudentInfo(id=2, firstName=Shyam, lastName=Singh, gpa=8.3)
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+5
+Enter Id to Search:
+2
+Enter New GPA:
+8.9
+Success
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+2
+StudentInfo(id=1, firstName=Arun, lastName=Kumar, gpa=8.2)
+StudentInfo(id=3, firstName=Ram, lastName=Singh, gpa=8.4)
+StudentInfo(id=4, firstName=Dinesh, lastName=Pal, gpa=8.5)
+StudentInfo(id=5, firstName=Vivek, lastName=Singh, gpa=8.6)
+StudentInfo(id=2, firstName=Shyam, lastName=Singh, gpa=8.9)
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+6
+Enter Id to Delete:
+5
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+2
+StudentInfo(id=1, firstName=Arun, lastName=Kumar, gpa=8.2)
+StudentInfo(id=3, firstName=Ram, lastName=Singh, gpa=8.4)
+StudentInfo(id=4, firstName=Dinesh, lastName=Pal, gpa=8.5)
+StudentInfo(id=2, firstName=Shyam, lastName=Singh, gpa=8.9)
+Student Menu: 
+1 - Add new student 
+2 - Display all students 
+3 - Search for student (by id) 
+4 - Search for student (by last name) 
+5 - Modify a student’s gpa 
+6 - Remove student (by id) 
+7 - Exit 
+Please enter your choice: 
+7
+Exiting the Options!!!
+
+Process finished with exit code 0
